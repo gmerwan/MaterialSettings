@@ -1,0 +1,42 @@
+package com.kenumir.materialsettings.items;
+
+import android.view.View;
+import android.widget.TextView;
+
+import com.kenumir.materialsettings.MaterialSettingsFragment;
+import com.kenumir.materialsettings.MaterialSettingsItem;
+import com.kenumir.materialsettings.R;
+
+
+public class HeaderItem extends MaterialSettingsItem {
+
+	private String title;
+
+	public HeaderItem(MaterialSettingsFragment ctx) {
+		super(ctx, null);
+	}
+
+	@Override
+	public int getViewResource() {
+		return R.layout.item_header;
+	}
+
+	@Override
+	public void setupView(View v) {
+		((TextView) v).setText(title);
+	}
+
+	@Override
+	public void save() {
+		// NOP
+	}
+
+	public String getTitle() {
+		return title;
+	}
+
+	public HeaderItem setTitle(String title) {
+		this.title = title;
+		return this;
+	}
+}
