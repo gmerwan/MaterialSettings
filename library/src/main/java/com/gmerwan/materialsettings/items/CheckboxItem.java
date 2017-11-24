@@ -1,13 +1,13 @@
-package com.kenumir.materialsettings.items;
+package com.gmerwan.materialsettings.items;
 
 import android.view.View;
 import android.widget.CompoundButton;
 import android.widget.TextView;
 
-import com.kenumir.materialsettings.MaterialSettingsFragment;
-import com.kenumir.materialsettings.MaterialSettingsItem;
-import com.kenumir.materialsettings.R;
-import com.kenumir.materialsettings.views.CheckableLinearLayout;
+import com.gmerwan.materialsettings.MaterialSettingsFragment;
+import com.gmerwan.materialsettings.MaterialSettingsItem;
+import com.gmerwan.materialsettings.R;
+import com.gmerwan.materialsettings.views.CheckableLinearLayout;
 
 
 public class CheckboxItem extends MaterialSettingsItem {

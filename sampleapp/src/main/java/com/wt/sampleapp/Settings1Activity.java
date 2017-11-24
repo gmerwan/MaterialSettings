@@ -5,15 +5,14 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.kenumir.materialsettings.MaterialSettingsActivity;
-import com.kenumir.materialsettings.MaterialSettingsFragment;
-import com.kenumir.materialsettings.items.CheckboxItem;
-import com.kenumir.materialsettings.items.DividerItem;
-import com.kenumir.materialsettings.items.HeaderItem;
-import com.kenumir.materialsettings.items.SwitcherItem;
-import com.kenumir.materialsettings.items.TextItem;
-import com.kenumir.materialsettings.storage.PreferencesStorageInterface;
-import com.kenumir.materialsettings.storage.StorageInterface;
+import com.gmerwan.materialsettings.MaterialSettingsActivity;
+import com.gmerwan.materialsettings.items.CheckboxItem;
+import com.gmerwan.materialsettings.items.DividerItem;
+import com.gmerwan.materialsettings.items.HeaderItem;
+import com.gmerwan.materialsettings.items.SwitcherItem;
+import com.gmerwan.materialsettings.items.TextItem;
+import com.gmerwan.materialsettings.storage.PreferencesStorageInterface;
+import com.gmerwan.materialsettings.storage.StorageInterface;
 
 
 public class Settings1Activity extends MaterialSettingsActivity implements SampleDialog.OnDialogOkClick {

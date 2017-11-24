@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.kenumir.materialsettings.views.CheckableLinearLayout
+<com.gmerwan.materialsettings.views.CheckableLinearLayout
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	style="?attr/msItem">
 
@@ -31,4 +31,4 @@
 
 	</LinearLayout>
 
-</com.kenumir.materialsettings.views.CheckableLinearLayout>
+</com.gmerwan.materialsettings.views.CheckableLinearLayout>

@@ -19,7 +19,7 @@
 		android:id="@+id/material_settings_fragment"
 		android:layout_width="match_parent"
 		android:layout_height="match_parent"
-		android:name="com.kenumir.materialsettings.MaterialSettingsFragment"
+		android:name="com.gmerwan.materialsettings.MaterialSettingsFragment"
 		tools:layout="@layout/fragment_material_settings"/>
 
 </LinearLayout>

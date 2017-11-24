@@ -1,7 +1,7 @@
-package com.kenumir.materialsettings.items;
+package com.gmerwan.materialsettings.items;
 
-import com.kenumir.materialsettings.MaterialSettingsFragment;
-import com.kenumir.materialsettings.R;
+import com.gmerwan.materialsettings.MaterialSettingsFragment;
+import com.gmerwan.materialsettings.R;
 
 
 public class SwitcherItem extends CheckboxItem {

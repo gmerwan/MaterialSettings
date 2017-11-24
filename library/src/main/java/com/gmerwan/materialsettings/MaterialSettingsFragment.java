@@ -1,21 +1,18 @@
-package com.kenumir.materialsettings;
+package com.gmerwan.materialsettings;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 
-import com.kenumir.materialsettings.storage.SimpleStorageInterface;
-import com.kenumir.materialsettings.storage.StorageInterface;
+import com.gmerwan.materialsettings.storage.StorageInterface;
 
 import java.util.HashMap;
-import java.util.Map;
 
 
 public class MaterialSettingsFragment extends Fragment {

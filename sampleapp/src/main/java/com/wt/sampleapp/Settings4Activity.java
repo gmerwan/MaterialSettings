@@ -3,9 +3,9 @@ package com.wt.sampleapp;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.kenumir.materialsettings.MaterialSettingsFragment;
-import com.kenumir.materialsettings.storage.SimpleStorageInterface;
-import com.kenumir.materialsettings.storage.StorageInterface;
+import com.gmerwan.materialsettings.MaterialSettingsFragment;
+import com.gmerwan.materialsettings.storage.SimpleStorageInterface;
+import com.gmerwan.materialsettings.storage.StorageInterface;
 
 
 public class Settings4Activity extends Settings1Activity {

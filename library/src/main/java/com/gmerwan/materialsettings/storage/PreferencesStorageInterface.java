@@ -1,4 +1,4 @@
-package com.kenumir.materialsettings.storage;
+package com.gmerwan.materialsettings.storage;
 
 import android.content.Context;
 import android.content.SharedPreferences;

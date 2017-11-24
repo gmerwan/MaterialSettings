@@ -1,10 +1,10 @@
-package com.kenumir.materialsettings;
+package com.gmerwan.materialsettings;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.kenumir.materialsettings.storage.StorageInterface;
+import com.gmerwan.materialsettings.storage.StorageInterface;
 
 
 public abstract class MaterialSettingsItem {

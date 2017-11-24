@@ -1,4 +1,4 @@
-package com.kenumir.materialsettings;
+package com.gmerwan.materialsettings;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -6,8 +6,8 @@ import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.widget.FrameLayout;
 
-import com.kenumir.materialsettings.storage.SimpleStorageInterface;
-import com.kenumir.materialsettings.storage.StorageInterface;
+import com.gmerwan.materialsettings.storage.SimpleStorageInterface;
+import com.gmerwan.materialsettings.storage.StorageInterface;
 
 import java.util.Map;
 

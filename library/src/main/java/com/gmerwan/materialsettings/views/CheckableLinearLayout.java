@@ -1,4 +1,4 @@
-package com.kenumir.materialsettings.views;
+package com.gmerwan.materialsettings.views;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -11,7 +11,7 @@ import android.widget.Checkable;
 import android.widget.CompoundButton;
 import android.widget.LinearLayout;
 
-import com.kenumir.materialsettings.R;
+import com.gmerwan.materialsettings.R;
 
 public class CheckableLinearLayout extends LinearLayout implements Checkable {
 
