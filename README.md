@@ -18,7 +18,7 @@ repositories {
 Dependences:
 ```
 dependencies {
-	compile 'com.github.gmerwan:MaterialSettings:v.1.2.2'
+	compile 'com.github.gmerwan:MaterialSettings:1.2.3'
 }
 ```
 
