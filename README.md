@@ -1,4 +1,4 @@
-This project was made thanks for "kenumir"
+This project was made thanks to "kenumir"
 
 # MaterialSettings
 MaterialSettings - small library to create settings activity
