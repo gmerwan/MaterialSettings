@@ -1,6 +1,5 @@
-This project was made thanks to "kenumir"
+# This is a modified version of [kenumir](https://github.com/kenumir/MaterialSettings)
 
-# MaterialSettings
 MaterialSettings - small library to create settings activity
 
 
